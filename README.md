@@ -2,9 +2,7 @@
 Project Overview
 - 
 Import and Merge .cvs files to analyze ride-sharing data with graphs
-
 -
-
 Results
 Analysis of Ride-Sharing Data for Different City Types
 
