@@ -2,8 +2,9 @@
 Project Overview
 - 
 Import and Merge .cvs files to analyze ride-sharing data with graphs
--
+
 Results
+-
 Analysis of Ride-Sharing Data for Different City Types
 
 ![Screen Shot 2022-09-12 at 11 13 56 PM](https://user-images.githubusercontent.com/96351971/189824959-f282ae55-39ec-4e75-960e-af1f4279a9d1.png)
@@ -14,4 +15,5 @@ Analysis of Ride-Sharing Data for Different City Types
 - The above chart suggests a rise in ridership between Febraursy and March and between March and April
 
 Summary 
+-
 - Rural and Suburban areas have higher demand and offer a high average fare for drivers.
